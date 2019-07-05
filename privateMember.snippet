@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<CodeSnippets xmlns="http://schemas.microsoft.com/VisualStudio/2005/CodeSnippet">
+  <CodeSnippet Format="1.0.0">
+    <Header>
+      <Title>Private Member</Title>
+      <Author>Guilherme Branco Stracini</Author>
+      <Description>Code snippet for Private Member.</Description>
+      <Shortcut>pm</Shortcut>
+      <SnippetTypes>
+        <SnippetType>Expansion</SnippetType>
+      </SnippetTypes>
+    </Header>
+    <Snippet>
+      <Declarations>
+        <Literal>
+          <ID>type</ID>
+          <ToolTip>Field Type</ToolTip>
+          <Default>Int32</Default>
+        </Literal>
+        <Literal>
+          <ID>field</ID>
+          <ToolTip>The variable name</ToolTip>
+          <Default>code</Default>
+        </Literal>
+      </Declarations>
+      <Code Language="CSharp"><![CDATA[private $type$ _$field$;
+		private Boolean _$field$Set;
+	    $end$]]></Code>
+    </Snippet>
+  </CodeSnippet>
+</CodeSnippets>
