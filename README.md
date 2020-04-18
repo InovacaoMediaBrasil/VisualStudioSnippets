@@ -1,2 +1,3 @@
-# VisualStudioSnippets
-Visual Studio snippets 
+# Visual Studio Snippets
+
+Visual Studio snippets for Sankhya project
