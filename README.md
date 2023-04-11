@@ -2,6 +2,8 @@
 
 [![GitHub license](https://img.shields.io/github/license/InovacaoMediaBrasil/VisualStudioSnippets)](https://github.com/InovacaoMediaBrasil/VisualStudioSnippets)
 [![wakatime](https://wakatime.com/badge/github/InovacaoMediaBrasil/VisualStudioSnippets.svg)](https://wakatime.com/badge/github/InovacaoMediaBrasil/VisualStudioSnippets)
+[![GitHub last commit](https://img.shields.io/github/last-commit/InovacaoMediaBrasil/VisualStudioSnippets)](https://wakatime.com/badge/github/InovacaoMediaBrasil/VisualStudioSnippets)
+[![GitHub license](https://img.shields.io/github/license/InovacaoMediaBrasil/VisualStudioSnippets)](https://wakatime.com/badge/github/InovacaoMediaBrasil/VisualStudioSnippets)
 
 ## CI/CD
 
