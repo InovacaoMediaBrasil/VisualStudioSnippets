@@ -1,13 +1,12 @@
 # Visual Studio Snippets
 
-[![GitHub license](https://img.shields.io/github/license/InovacaoMediaBrasil/VisualStudioSnippets)](https://github.com/InovacaoMediaBrasil/VisualStudioSnippets)
 [![wakatime](https://wakatime.com/badge/github/InovacaoMediaBrasil/VisualStudioSnippets.svg)](https://wakatime.com/badge/github/InovacaoMediaBrasil/VisualStudioSnippets)
-[![GitHub last commit](https://img.shields.io/github/last-commit/InovacaoMediaBrasil/VisualStudioSnippets)](https://wakatime.com/badge/github/InovacaoMediaBrasil/VisualStudioSnippets)
-[![GitHub license](https://img.shields.io/github/license/InovacaoMediaBrasil/VisualStudioSnippets)](https://wakatime.com/badge/github/InovacaoMediaBrasil/VisualStudioSnippets)
+[![GitHub license](https://img.shields.io/github/license/InovacaoMediaBrasil/VisualStudioSnippets)](https://github.com/InovacaoMediaBrasil/VisualStudioSnippets)
+[![GitHub last commit](https://img.shields.io/github/last-commit/InovacaoMediaBrasil/VisualStudioSnippets/main)](https://github.com/InovacaoMediaBrasil/VisualStudioSnippets)
 
 ## CI/CD
 
-| Build status | Last commit | Code Smells | LoC | 
+| Workflow | Last commit | Code Smells | LoC | 
 |--------------|-------------|-------------|-----|
 | [![Sonar Cloud Analysis](https://github.com/InovacaoMediaBrasil/VisualStudioSnippets/actions/workflows/sonarcloud.yml/badge.svg)](https://github.com/InovacaoMediaBrasil/VisualStudioSnippets/actions/workflows/sonarcloud.yml) | [![GitHub last commit](https://img.shields.io/github/last-commit/InovacaoMediaBrasil/VisualStudioSnippets/main)](https://github.com/InovacaoMediaBrasil/VisualStudioSnippets) | [![Code Smells](https://sonarcloud.io/api/project_badges/measure?project=InovacaoMediaBrasil_VisualStudioSnippets&metric=code_smells&branch=main)](https://sonarcloud.io/dashboard?id=InovacaoMediaBrasil_VisualStudioSnippets) | [![Lines of Code](https://sonarcloud.io/api/project_badges/measure?project=InovacaoMediaBrasil_VisualStudioSnippets&metric=ncloc&branch=main)](https://sonarcloud.io/dashboard?id=InovacaoMediaBrasil_VisualStudioSnippets) | 
 
