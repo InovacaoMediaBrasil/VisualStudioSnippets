@@ -33,7 +33,7 @@
 
 ## About
 
-Visual Studio snippets for Sankhya project
+Visual Studio snippets for [Sankhya](https://github.com/guibranco/Sankhya-SDK-dotnet) and [Integração Service](https://github.com/guibranco/Integracao-Service) projects
 
 ---
 
