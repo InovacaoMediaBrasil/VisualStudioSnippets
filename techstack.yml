@@ -2,8 +2,8 @@ repo_name: InovacaoMediaBrasil/VisualStudioSnippets
 report_id: 002632e8b726accfb7dbfc1144f9fdcd
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-05T09:19:48+00:00'
-requested_by: guibranco
+timestamp: '2024-01-11T12:24:15+00:00'
+requested_by: stack-file[bot]
 provider: github
 branch: main
 detected_tools_count: 2
