@@ -6,9 +6,9 @@
 
 ## CI/CD
 
-| Workflow | Last commit | Code Smells |
-|--------------|-------------|-------------|
-| [![Sonar Cloud Analysis](https://github.com/InovacaoMediaBrasil/VisualStudioSnippets/actions/workflows/sonarcloud.yml/badge.svg)](https://github.com/InovacaoMediaBrasil/VisualStudioSnippets/actions/workflows/sonarcloud.yml) | [![GitHub last commit](https://img.shields.io/github/last-commit/InovacaoMediaBrasil/VisualStudioSnippets/main)](https://github.com/InovacaoMediaBrasil/VisualStudioSnippets) | [![Code Smells](https://sonarcloud.io/api/project_badges/measure?project=InovacaoMediaBrasil_VisualStudioSnippets&metric=code_smells&branch=main)](https://sonarcloud.io/dashboard?id=InovacaoMediaBrasil_VisualStudioSnippets) | 
+| Build status | Last commit | Code Smells | LoC | 
+|--------------|-------------|-------------|-----|
+| [![Sonar Cloud Analysis](https://github.com/InovacaoMediaBrasil/VisualStudioSnippets/actions/workflows/sonarcloud.yml/badge.svg)](https://github.com/InovacaoMediaBrasil/VisualStudioSnippets/actions/workflows/sonarcloud.yml) | [![GitHub last commit](https://img.shields.io/github/last-commit/InovacaoMediaBrasil/VisualStudioSnippets/main)](https://github.com/InovacaoMediaBrasil/VisualStudioSnippets) | [![Code Smells](https://sonarcloud.io/api/project_badges/measure?project=InovacaoMediaBrasil_VisualStudioSnippets&metric=code_smells&branch=main)](https://sonarcloud.io/dashboard?id=InovacaoMediaBrasil_VisualStudioSnippets) | [![Lines of Code](https://sonarcloud.io/api/project_badges/measure?project=InovacaoMediaBrasil_VisualStudioSnippets&metric=ncloc)](https://sonarcloud.io/summary/new_code?id=InovacaoMediaBrasil_VisualStudioSnippets)
 
 
 ## Code Quality (main branch)
