@@ -40,3 +40,5 @@ Visual Studio snippets for [Sankhya](https://github.com/guibranco/Sankhya-SDK-do
 Developed by [Guilherme Branco Stracini](https://www.guilhermebranco.com.br) for [Editora Inovação](https://www.editorainovacao.com.br)
 
 2013 ~ 2018 © All rights reserved.
+
+---
